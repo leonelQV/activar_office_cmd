@@ -1,0 +1,21 @@
+ejecutar como administrador PowerShell
+BUSCARLO POR LA BARRA DE TAREAS
+
+copiar el scrip, pegarlos y presionar enter
+
+--   irm https://massgrave.dev/get | iex
+
+esperar a que se ejecute hasta que aparesca una ventana CMD
+
+acontinuacion buscar la palabra Ohook y presionar el numero que indica
+
+se abrira otra ventana y presionar el 1 para activar el office
+
+esperar a que se active
+
+una vez finalizardo presionar cualquier tecla, se cerra automaticamente 
+
+cerrar las ventanas y listo se activo office
+
+fuentes:   https://www.youtube.com/watch?v=5Y8MS7y_ZNY
+           https://massgrave.dev/
